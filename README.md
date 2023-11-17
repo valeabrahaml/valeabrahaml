@@ -11,7 +11,16 @@ Hello, I'm Vale! I hold an honors degree in industrial engineering and bring ove
 
 ## Skills 🚀
 
-![Python](https://img.shields.io/badge/-Python-blue) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-green) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange) ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-red) ![SQL](https://img.shields.io/badge/-SQL-brightgreen) ![Oracle NetSuite](https://img.shields.io/badge/-Oracle%20NetSuite-yellow) ![Tableau](https://img.shields.io/badge/-Tableau-brown) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple) ![Database Cleaning](https://img.shields.io/badge/-Database%20Cleaning-gray) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-lightgrey)
+[![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+[![Data Analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)](https://jupyter.org/)
+[![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
+[![Microsoft Office Suite](https://seeklogo.com/images/M/microsoft-office-logo-5213D55934-seeklogo.com.png)](https://www.microsoft.com/en-us/microsoft-365/)
+[![SQL](https://image.flaticon.com/icons/png/512/29/29242.png)](https://en.wikipedia.org/wiki/SQL)
+[![Oracle NetSuite](https://www.oracle.com/a/ocom/img/corporate/oracle-netsuite-logo.svg)](https://www.oracle.com/netsuite/)
+[![Tableau](https://www.tableau.com/sites/default/files/pages/tableau-logo.svg)](https://www.tableau.com/)
+[![Data Visualization](https://www.chartblocks.com/wp-content/themes/chartblocks/assets/images/infographics/best-infographic-tools/data-visualization-logo.png)](https://www.chartblocks.com/)
+[![Database Cleaning](https://icons-for-free.com/iconfiles/png/512/brush+clean+cleaning+dust+dusting+mop+scrub+icon-1320168113711300343.png)](https://en.wikipedia.org/wiki/Data_cleansing)
+[![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)](https://jupyter.org/)
 
 ## Projects 🛠️
 
@@ -19,10 +28,4 @@ Hello, I'm Vale! I hold an honors degree in industrial engineering and bring ove
 - **Description:** Introduced Python for automating processes, specifically for fetching data from suppliers and integrating it into our web platform without manual intervention.
 - **Technologies Used:** Python
 - **Outcomes:** Reduced processing time by up to 80%, enhancing efficiency and accuracy.
-
-## Skills Usage Graph 📊
-
-<!-- You can use a service like shields.io for dynamically generated badges. -->
-
-[![Skills Usage](https://chart.googleapis.com/chart?cht=bvg&chs=400x200&chd=t:80,60,40,30,70,50,20,65,90&chxt=x,y&chxl=0:|Python|Data+Analysis|Machine+Learning|Microsoft+Office+Suite|SQL|Oracle+NetSuite|Tableau|Data+Visualization|Database+Cleaning&chxr=1,0,100)](https://chart.googleapis.com/chart?cht=bvg&chs=400x200&chd=t:80,60,40,30,70,50,20,65,90&chxt=x,y&chxl=0:|Python|Data+Analysis|Machine+Learning|Microsoft+Office+Suite|SQL|Oracle+NetSuite|Tableau|Data+Visualization|Database+Cleaning&chxr=1,0,100)
 
