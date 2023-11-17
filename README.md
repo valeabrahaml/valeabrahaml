@@ -12,17 +12,26 @@ Hello, I'm Valeria Abraham, an industrial engineering graduate with honors with 
 
 <!-- Skills -->
 
-| Skill                   | Color                                                         |
-|-------------------------|---------------------------------------------------------------|
-| Python                  | <span style="background-color: #64b5f6; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Data Analysis           | <span style="background-color: #4caf50; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Machine Learning        | <span style="background-color: #ff9800; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Microsoft Office Suite  | <span style="background-color: #d32f2f; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| SQL                     | <span style="background-color: #8bc34a; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Oracle NetSuite         | <span style="background-color: #ffeb3b; color: #000; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Tableau                 | <span style="background-color: #795548; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Data Visualization      | <span style="background-color: #9c27b0; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
-| Database Cleaning       | <span style="background-color: #607d8b; color: #fff; padding: 5px; border-radius: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |
+<!-- Skills -->
+
+- Python ![Python](https://img.shields.io/badge/-Python-blue)
+
+- Data Analysis ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-green)
+
+- Machine Learning ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange)
+
+- Microsoft Office Suite ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-red)
+
+- SQL ![SQL](https://img.shields.io/badge/-SQL-brightgreen)
+
+- Oracle NetSuite ![Oracle NetSuite](https://img.shields.io/badge/-Oracle%20NetSuite-yellow)
+
+- Tableau ![Tableau](https://img.shields.io/badge/-Tableau-brown)
+
+- Data Visualization ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple)
+
+- Database Cleaning ![Database Cleaning](https://img.shields.io/badge/-Database%20Cleaning-gray)
+
 
 
 Projects 🛠️
