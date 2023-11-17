@@ -1,13 +1,12 @@
-# Welcome to My GitHub Profile! 👋
-
-## About Me ℹ️
-
-Hello, I'm Vale! I hold an honors degree in industrial engineering and bring over 2 years of experience in the data analytics field. Currently pursuing a Master's in Business Analytics and Big Data at IE Science School. As a passionate and fast learner, I've worked as a Data Analyst, handling everything from data visualization to database cleaning and analysis.
-
+# Hello there it's Vale! 👋
 ## Contact Me 📧
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ValeAbrahamL-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/valeabrahaml/)
 [![Email](https://img.shields.io/badge/Email-valeria.abraham%40student.ie.edu-red?style=flat&logo=gmail)](mailto:valeria.abraham@student.ie.edu)
+
+## About Me ℹ️
+
+ I hold an honors degree in industrial engineering and bring over 2 years of experience in the data analytics field. Currently pursuing a Master's in Business Analytics and Big Data at IE Science School. As a passionate and fast learner, I've worked as a Data Analyst, handling everything from data visualization to database cleaning and analysis.
 
 
 ## Skills 🚀
