@@ -12,23 +12,23 @@ Hello, I'm Valeria Abraham, an industrial engineering graduate with honors with 
 
 Skills
 
--  ![Python](https://img.shields.io/badge/-Python-blue)
+-  !(https://img.shields.io/badge/-Python-blue)
 
--  ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-green)
+-  !(https://img.shields.io/badge/-Data%20Analysis-green)
 
--  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange)
+-  !(https://img.shields.io/badge/-Machine%20Learning-orange)
 
--  ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-red)
+-  !(https://img.shields.io/badge/-Microsoft%20Office%20Suite-red)
 
--  ![SQL](https://img.shields.io/badge/-SQL-brightgreen)
+-  !(https://img.shields.io/badge/-SQL-brightgreen)
 
--  ![Oracle NetSuite](https://img.shields.io/badge/-Oracle%20NetSuite-yellow)
+-  !(https://img.shields.io/badge/-Oracle%20NetSuite-yellow)
 
--  ![Tableau](https://img.shields.io/badge/-Tableau-brown)
+-  !(https://img.shields.io/badge/-Tableau-brown)
 
--  ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple)
+-  !(https://img.shields.io/badge/-Data%20Visualization-purple)
 
--  ![Database Cleaning](https://img.shields.io/badge/-Database%20Cleaning-gray)
+-  ![(https://img.shields.io/badge/-Database%20Cleaning-gray)
 
 
 
