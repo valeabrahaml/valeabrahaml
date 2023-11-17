@@ -6,8 +6,9 @@ Hello, I'm Vale! I hold an honors degree in industrial engineering and bring ove
 
 ## Contact Me 📧
 
-- **Email:** valeria.abraham@student.ie.edu
-- **LinkedIn:** [ValeAbrahamL](https://www.linkedin.com/in/valeabrahaml/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ValeAbrahamL-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/valeabrahaml/)
+[![Email](https://img.shields.io/badge/Email-valeria.abraham%40student.ie.edu-red?style=flat&logo=gmail)](mailto:valeria.abraham@student.ie.edu)
+
 
 ## Skills 🚀
 
