@@ -11,21 +11,18 @@ Hey there! I'm Vale, an industrious data enthusiast and explorer. Armed with an 
 
 ## 🚀 Skills Set 
 
-<!-- Replace the URLs with your own images -->
+<!-- Replace the URLs with your own logos and colors -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://your-image-url.com/python-logo.png" alt="Python Logo" width="100" height="100">
-    <p>Python</p>
-  </div>
-  
-  <!-- Repeat the structure for each skill -->
-  
-  <div style="text-align: center;">
-    <img src="https://your-image-url.com/data-analysis-logo.png" alt="Data Analysis Logo" width="100" height="100">
-    <p>Data Analysis</p>
-  </div>
-</div>
 
+  <div style="text-align: center; background-color: #61dafb; padding: 10px; border-radius: 10px;">
+    <img src="https://your-image-url.com/python-logo.png" alt="Python Logo" width="80" height="80">
+    <p style="color: white; font-weight: bold;">Python</p>
+  </div>
+  
+  <div style="text-align: center; background-color: #44a03e; padding: 10px; border-radius: 10px;">
+    <img src="https://your-image-url.com/pandas-logo.png" alt="Pandas Logo" width="80" height="80">
+    <p style="color: white; font-weight: bold;">Pandas</p>
+  </div>
 ## 🛠️ Featured Project 
 
 ### 🌐 Automation of Supplier Data Integration
