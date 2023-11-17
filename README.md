@@ -11,7 +11,21 @@ Hello, I'm Vale! I hold an honors degree in industrial engineering and bring ove
 
 ## Skills 🚀
 
-![Python](https://img.shields.io/badge/-Python-blue) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-green) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange) ![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-red) ![SQL](https://img.shields.io/badge/-SQL-brightgreen) ![Oracle NetSuite](https://img.shields.io/badge/-Oracle%20NetSuite-yellow) ![Tableau](https://img.shields.io/badge/-Tableau-brown) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple) ![Database Cleaning](https://img.shields.io/badge/-Database%20Cleaning-gray)
+### 🛠 skills
+- *languages:*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- *frameworks and librares:*
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+- *tools and technologies:*
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
+![Apache_NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat&logo=apachenifi&logoColor=white)
 
 ## Projects 🛠️
 
